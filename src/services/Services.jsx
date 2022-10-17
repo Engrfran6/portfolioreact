@@ -3,7 +3,7 @@ import "./services.css"
 
 export default function Services() {
   return (
-    <section id="#services">
+    <section id="services">
         <h5>What i Offer</h5>
         <h2>My Services</h2>
       <div className="container services_container">

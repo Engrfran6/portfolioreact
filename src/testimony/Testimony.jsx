@@ -51,7 +51,7 @@ const visitor = [
 
 export default function Testimony() {
   return (
-    <section>
+    <section id="testimony">
       <h5>Review from clients</h5>
       <h2>Testimonials</h2>
 

@@ -60,7 +60,7 @@ const data = [
 
 export default function Portfolio() {
   return (
-    <section id="#porfolio">
+    <section id="porfolio">
       <h5>Projects Done</h5>
       <h2>My Portfolio</h2>
 
